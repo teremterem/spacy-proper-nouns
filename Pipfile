@@ -5,6 +5,7 @@ verify_ssl = true
 
 [dev-packages]
 jupyterlab = "*"
+jupyterlab-kite = ">=2.0.2"
 
 [packages]
 spacy = "==2.2.4"
